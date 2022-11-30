@@ -1,0 +1,71 @@
+[
+    {
+        "label": "Mineral Water",
+        "type": "Drink",
+        "price": 1,
+        "quantity": 9
+    },
+    {
+        "label": "Wonda Coffee",
+        "type": "Drink",
+        "price": 2,
+        "quantity": 10
+    },
+    {
+        "label": "Chocolate Milk",
+        "type": "Drink",
+        "price": 2,
+        "quantity": 10
+    },
+    {
+        "label": "Coke",
+        "type": "Drink",
+        "price": 2,
+        "quantity": 10
+    },
+    {
+        "label": "Red Bull",
+        "type": "Drink",
+        "price": 3.5,
+        "quantity": 10
+    },
+    {
+        "label": "KitKat",
+        "type": "Snack",
+        "price": 2.3,
+        "quantity": 10
+    },
+    {
+        "label": "Snickers",
+        "type": "Snack",
+        "price": 2.8,
+        "quantity": 8
+    },
+    {
+        "label": "Twix",
+        "type": "Snack",
+        "price": 2.5,
+        "quantity": 7
+    },
+    {
+        "label": "Maggi Cup Chicken",
+        "type": "Meal",
+        "price": 4.8,
+        "quantity": 8
+    },
+    {
+        "label": "Empty"
+    },
+    {
+        "label": "Snickers",
+        "type": "snack",
+        "price": "2.8",
+        "quantity": "10"
+    },
+    {
+        "label": "Tom Yam",
+        "type": "Meal",
+        "price": "4",
+        "quantity": "5"
+    }
+]
